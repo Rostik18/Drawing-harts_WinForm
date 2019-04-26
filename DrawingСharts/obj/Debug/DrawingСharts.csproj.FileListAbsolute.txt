@@ -1,0 +1,10 @@
+C:\Users\Ростик\source\repos\DrawingСharts\DrawingСharts\bin\Debug\DrawingСharts.exe.config
+C:\Users\Ростик\source\repos\DrawingСharts\DrawingСharts\bin\Debug\DrawingСharts.exe
+C:\Users\Ростик\source\repos\DrawingСharts\DrawingСharts\bin\Debug\DrawingСharts.pdb
+C:\Users\Ростик\source\repos\DrawingСharts\DrawingСharts\obj\Debug\DrawingСharts.csprojAssemblyReference.cache
+C:\Users\Ростик\source\repos\DrawingСharts\DrawingСharts\obj\Debug\DrawingСharts.Form1.resources
+C:\Users\Ростик\source\repos\DrawingСharts\DrawingСharts\obj\Debug\DrawingСharts.Properties.Resources.resources
+C:\Users\Ростик\source\repos\DrawingСharts\DrawingСharts\obj\Debug\DrawingСharts.csproj.GenerateResource.cache
+C:\Users\Ростик\source\repos\DrawingСharts\DrawingСharts\obj\Debug\DrawingСharts.csproj.CoreCompileInputs.cache
+C:\Users\Ростик\source\repos\DrawingСharts\DrawingСharts\obj\Debug\DrawingСharts.exe
+C:\Users\Ростик\source\repos\DrawingСharts\DrawingСharts\obj\Debug\DrawingСharts.pdb
